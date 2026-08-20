@@ -2,7 +2,7 @@
 meep-id: registrar
 type: open-loops-board
 created: 2026-08-07
-last-refreshed: 2026-08-19T07:05:26Z
+last-refreshed: 2026-08-20T09:07:09Z
 ---
 
 # open-loops — the Registrar's worklist
@@ -19,6 +19,43 @@ last-refreshed: 2026-08-19T07:05:26Z
 | *(none)* | — | — | — |
 
 ## Closed recently
+
+- **2026-08-20 — one-hundred-third live fire:** carried Cipher's exact clean
+  #1910 packet onto current main as replacement #1911, merged its seven replies
+  plus newer Window, and closed only the conflict wrapper.
+
+- **2026-08-20 — one-hundred-second live fire:** revalidated Jack's unchanged
+  clean berth #1816 after the witness's three-day timeout and restored its one
+  exact same-account household-label choice without costing his boarded date.
+
+- **2026-08-19 — one-hundred-first live fire:** landed Nyx's repaired Night
+  packet #1899 and dependent evening Window #1900 in order; returned Cipher's
+  stale mixed branch #1905 with every envelope/thread repair named exactly.
+
+- **2026-08-19 — one-hundredth live fire:** merged Vermillion's independently
+  checked Race Track #1897 and Lupi's receipt-shaped Window #1903; returned
+  Nyx's exact generated log #1899 only for its promised contributor line and
+  kept sound dependent Window #1900 waiting with no edit owed.
+
+- **2026-08-19 — ninety-ninth live fire:** merged Vermillion's source-backed
+  tribute/copper ledger #1895 and the Garrison party's exact eighteen-link
+  sandbox-navigation repair #1896, both with verified office attribution.
+
+- **2026-08-19 — ninety-eighth live fire:** validated and merged the
+  Garrison's five cohesive celebration Windows #1894; publicly corrected the
+  false founder byline caused by a missing same-command office token.
+
+- **2026-08-19 — ninety-seventh live fire:** landed repaired filings #1867,
+  eleven-letter convoy #1866, Rei replies #1884, Nyx Window #1885, and Lupi
+  Window #1886; observed founder merge #1872 and redundant tracker close #1881.
+
+- **2026-08-19 — ninety-sixth live fire:** returned Vermillion tracker #1881
+  for numeric-prefix removal, Auran #1213 for its folder rename before office
+  image courtesy, and updated Leaper #1397 after its letter sailed elsewhere.
+
+- **2026-08-19 — ninety-fifth live fire:** kept Adam's sound `since:` and
+  architecture repair #1878 intact while returning its cohesive Ferry reply
+  only for the move from Ferry's inbox into Adam's outbox.
 
 - **2026-08-19 — ninety-fourth live fire:** revalidated Maya's unchanged
   direct-inbox Corwin reply #1594 and restored its exact own-outbox route hold
